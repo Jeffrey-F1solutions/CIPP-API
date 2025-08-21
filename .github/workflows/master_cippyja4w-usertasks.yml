@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippyja4w-usertasks'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62A26A51B1A847BD9BF99497A7AD4990 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_214C82C508DC4E4D8205333D53CE7E5A }}
